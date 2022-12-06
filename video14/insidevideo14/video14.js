@@ -6,7 +6,7 @@ let b = {
     age: 19,
     uni: 'STU',
 };
-console.log("Ta có : a là string, b là obj")
+console.log("Ta có : a là string, b là obj");
 console.log("a == b : ", a == b);
 console.log("a === b : ", a === b);
 console.log("a !== b : ", a !== b);
